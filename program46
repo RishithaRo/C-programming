@@ -1,4 +1,4 @@
-//Amicable number
+//Amicable pair of numbers
 /* 
 Write a program to accept any two numbers and 
 find the sum of factors of first number and 
@@ -10,7 +10,7 @@ Note:-- While calculating the sum of factors of number,
 the sum should be calculated without considering that number.
 */
 
-
+//method1
 #include<stdio.h>
 int main()
 {
