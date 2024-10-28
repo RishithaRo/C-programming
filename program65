@@ -1,7 +1,7 @@
 /* 
 write a program to take the size of the array,
 accept elements of the array,
-print the even repeated elements of array.
+print the repeated elements of array only if they are even numbers.
 */
 #include<stdio.h>
 int main()
