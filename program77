@@ -1,4 +1,5 @@
 // program to accept a string and convert all lowercase letters of string to uppercase
+// program to convert all letters of a string to uppercase
 #include<stdio.h>
 int main()
 {
