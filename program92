@@ -1,6 +1,4 @@
-
 									// NESTED STRUCTURES
-
 #include<stdio.h>
 struct student 
 {
